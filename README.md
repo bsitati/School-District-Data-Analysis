@@ -8,11 +8,11 @@ The final report included each of the following:
 - Scores by School Type
 
 Created a high level snapshot (in table form) of key metrics, including:
-Total Schools
-Total Students
-Total Budget
-Average Math Score
-Average Reading Score
-% Passing Math
-% Passing Reading
-Overall Passing Rate (Average of the above two)
+- Total Schools
+- Total Students
+- Total Budget
+- Average Math Score
+- Average Reading Score
+- % Passing Math
+- % Passing Reading
+- Overall Passing Rate (Average of the above two)
