@@ -1,6 +1,6 @@
 # School District Analysis
-analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your responsibility is to aggregate the data to and showcase obvious trends in school performance.
-Your final report should include each of the following:
+Analyzed the district-wide standardized test results. Used every student's math and reading scores, as well as various information on the schools they attend. Aggregated the data to and showcase obvious trends in school performance.
+The final report included each of the following:
 - District Summary
 - School Summary
 - Scores by School Size
